@@ -1,3 +1,4 @@
+```C++ runnable
 #include <stdio.h>
 #include <algorithm>
 using std::rotate;
