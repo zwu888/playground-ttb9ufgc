@@ -1,4 +1,4 @@
 title: Inplace Partition Implementation
 plan:
 - title: C++ Code
-  statement: statement.md
+  statement: ./src/test.cpp
